@@ -27,9 +27,3 @@ Backend & Discord systems engineer. I build production systems, not demos — bo
   <a href="https://github.com/joi7osk?tab=repositories"><img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,linux,vercel,discordjs&perline=7" alt="DevOps & Ecosystems" /></a>
 </div>
 
-**GitHub stats:**
-
-| <a href="https://github.com/joi7osk"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joi7osk&theme=tokyonight" alt="Stats" /></a> | <a href="https://github.com/joi7osk"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joi7osk&theme=tokyonight" alt="Most commit language" /></a> |
-| --- | --- |
-| <a href="https://github.com/joi7osk"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joi7osk&theme=tokyonight" alt="Repos per language" /></a> | <a href="https://github.com/joi7osk"><img src="https://streak-stats.demolab.com?user=joi7osk&hide_border=true&theme=tokyonight" alt="Streak" /></a> |
-
