@@ -1,51 +1,36 @@
-<div align="center">
+### Hi, I'm joi7osk
 
-**Backend engineer building production Discord systems bots that recover from crashes, zero-dependency libraries, infrastructure other developers build on.**
+Backend & Discord systems engineer. I build production systems, not demos — bots that recover from crashes, zero-dependency libraries, and infrastructure other developers build on.
 
-[![Open to Work](https://img.shields.io/badge/Open_to_Work-2EA043?style=flat-square)](https://github.com/joi7osk)
+- Building **QuranBot** — a production Discord bot for Quran recitation, Azkar, prayer times and 24/7 Islamic radio, used by real communities
+- Published **workflow-runtime**, **pathlra-aliaser** and **discord-audit-logger** on npm
+- Currently open to full-time backend / Node.js / Discord engineering roles and freelance work
+
+**Find me:**
+
 [![Email](https://img.shields.io/badge/Email-joi7osk%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joi7osk@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Full_Portfolio-181722?style=flat-square&logo=github&logoColor=white)](https://github.com/joi7osk/portfolio)
+[![Add QuranBot](https://img.shields.io/badge/Add_QuranBot-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/discovery/applications/1436018817988825138)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181722?style=flat-square&logo=github&logoColor=white)](https://github.com/joi7osk/portfolio)
 
+**Technologies I work with:**
+
+<div>
+  <a href="https://github.com/joi7osk?tab=repositories"><img src="https://skillicons.dev/icons?i=ts,js,java,python,bash,nodejs,expressjs,nestjs,graphql&perline=9" alt="Core" /></a>
+</div>
+<div>
+  <a href="https://github.com/joi7osk?tab=repositories"><img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgresql,redis,supabase,prisma&perline=7" alt="Databases" /></a>
+</div>
+<div>
+  <a href="https://github.com/joi7osk?tab=repositories"><img src="https://skillicons.dev/icons?i=react,vuejs,vite,html,css,tailwindcss&perline=6" alt="Frontend" /></a>
+</div>
+<div>
+  <a href="https://github.com/joi7osk?tab=repositories"><img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,linux,vercel,discordjs&perline=7" alt="DevOps & Ecosystems" /></a>
 </div>
 
-## Strongest projects
+**GitHub stats:**
 
-### [QuranBot](https://github.com/mgv-hub/quranbot) — Production Discord bot for Islamic communities
+| <a href="https://github.com/joi7osk"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joi7osk&theme=tokyonight" alt="Stats" /></a> | <a href="https://github.com/joi7osk"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joi7osk&theme=tokyonight" alt="Most commit language" /></a> |
+| --- | --- |
+| <a href="https://github.com/joi7osk"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joi7osk&theme=tokyonight" alt="Repos per language" /></a> | <a href="https://github.com/joi7osk"><img src="https://streak-stats.demolab.com?user=joi7osk&hide_border=true&theme=tokyonight" alt="Streak" /></a> |
 
-Quran recitation with 114 surahs and verified reciters, 24/7 Islamic radio, scheduled Azkar and prayer times for 35+ countries. State survives crashes: synchronized Firebase persistence, automatic voice recovery, rate limiting and role-based authorization.
-
-[Invite](https://discord.com/discovery/applications/1436018817988825138)
-
-<div align="center">
-
-[![Add on Discord](https://img.shields.io/badge/Add_on_Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/discovery/applications/1436018817988825138)
-[![Repo](https://img.shields.io/badge/Repo-mgv--hub%2Fquranbot-181722?style=flat-square&logo=github&logoColor=white)](https://github.com/mgv-hub/quranbot)
-
-</div>
-
----
-
-<div align="center">
-  <a href="https://github.com/joi7osk?tab=repositories">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joi7osk&theme=tokyonight" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/joi7osk?tab=repositories">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joi7osk&theme=tokyonight" alt="Most commit language" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=joi7osk&hide_border=true&theme=tokyonight" height="160" alt="GitHub streak" />
-</div>
-
-## Tech stack
-
-<div align="center">
-  <a href="https://github.com/joi7osk?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,discord,firebase,git,github,linux&perline=10" alt="Tech stack" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=90&section=footer" width="100%" alt="footer" />
-</div>
+<a href="https://github.com/joi7osk"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joi7osk&theme=tokyonight" width="100%" alt="Profile details" /></a>
